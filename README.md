@@ -16,9 +16,11 @@ The results can be seen below.
 
 
 Sparse Categorical Cross Entropy
+
 ![image](https://user-images.githubusercontent.com/72590383/143768637-e9167601-d519-4aa4-9b1d-dc95c02792c2.png)
 
 
 Binary Cross Entropy
+
 ![image](https://user-images.githubusercontent.com/72590383/143768683-c582d4cf-bc12-4b6c-899b-1d77ce642eb4.png)
 
