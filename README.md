@@ -5,7 +5,7 @@ It was completed using the Jupyter Notebook
 and TensorFlow as the library. The code is written in Python 
 and can be showcased by navigating to the ClassifyML file above.
 
-Example of the CT Scans used as the dataset
+Examples of the CT Scans used as the dataset
 ![image](https://user-images.githubusercontent.com/72590383/143768581-aa26bfaf-1502-40ac-849f-4d4607559922.png)
 
 
