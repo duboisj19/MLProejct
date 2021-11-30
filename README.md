@@ -1,5 +1,5 @@
 # MLProejct
-This project used Machine Learning to classify lung diseases 
+This project uses Machine Learning to classify lung diseases 
 based on a dataset from Shenzhen Hospital. 
 It was completed using the Jupyter Notebook 
 and TensorFlow as the library. The code is written in Python 
